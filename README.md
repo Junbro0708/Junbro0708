@@ -1,4 +1,5 @@
-### Hi there👋 I'm Jun Hyeong Park, and English name is Thomas 🇰🇷
+### Hi there 👋  
+### I'm Jun Hyeong Park, and English name is Thomas  🇰🇷
 
 <!--
 **Junbro0708/Junbro0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
