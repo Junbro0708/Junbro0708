@@ -1,4 +1,4 @@
-### Hi there  👋  I'm Jun Hyeong, and English name is Thomas  🇰🇷
+### Hi there  👋        I'm Jun Hyeong, and English name is Thomas  🇰🇷
 
 
 
