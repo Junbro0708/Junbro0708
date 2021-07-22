@@ -22,7 +22,7 @@ So please watch me until I become **a famous developer** 🙏 &nbsp; Thank you &
 
 <br/>
 
-## 💪 &nbsp; Skill
+## 💪&nbsp;Skill
 
 ### Platforms & Languages
 
@@ -35,7 +35,7 @@ So please watch me until I become **a famous developer** 🙏 &nbsp; Thank you &
   
 <br/>
   
-## 👍 &nbsp; Most Used Languages
+## Most Used Languages&nbsp;👍 
   
 <br/>
 
