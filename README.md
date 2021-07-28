@@ -13,7 +13,7 @@
 
 Hey &nbsp;👋&nbsp;&nbsp;**I'm Jun Hyeong, English name is Thomas.** &nbsp;🇰🇷         
 I want to be a **Game Developer** and **3D Modeler** &nbsp;: ) &nbsp;🚀   
-So I'm studying **Unity, UnrealEngine** and **Maya, Blender.** &nbsp;🎮
+So I'm studying **Unity, UnrealEngine** and **Maya, Zbrush, Blender.** &nbsp;🎮
 
 <br/>
 
