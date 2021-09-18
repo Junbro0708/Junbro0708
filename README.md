@@ -17,7 +17,7 @@ So I'm studying **Unity, UnrealEngine** and **Maya, Zbrush, Blender.** &nbsp;�
 
 <br/>
 
-I'm gonna create helpful game and media art **to make the world more enjoyable. ** &nbsp;🤣   
+I'm gonna create helpful game and media art **to make the world more enjoyable.** &nbsp;🤣   
 So please watch me until I become **a famous developer** 🙏 &nbsp; Thank you &nbsp;: ) &nbsp;😘
 
 <br/>
