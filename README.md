@@ -27,12 +27,12 @@ So please watch me until I become **a famous developer** 🙏 &nbsp; Thank you g
 
 ### Platforms & Languages
 
-<img src="https://img.shields.io/badge/CS-50BCDF?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/CPP-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CS-50BCDF?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/CPP-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></br>
 
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine-313131?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Blender-#F5792A?style=flat-square&logo=Blender&logoColor=white"/></br>
   
 <br/>
   
