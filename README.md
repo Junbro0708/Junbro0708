@@ -12,7 +12,7 @@
 
 <br/>
 
-Hey &nbsp;👋&nbsp;&nbsp;**I'm Jun Hyeong, English name is Thomas.** &nbsp;🇰🇷         
+Hey &nbsp;👋&nbsp;&nbsp;**I'm Jun. I'm just a guy who want to be a famous web developer.** &nbsp;🇰🇷         
 I want to be a **Game Developer** and **3D Modeler** &nbsp;: ) &nbsp;🚀   
 So I'm studying **Unity, UnrealEngine** and **Maya, Zbrush, Blender.** &nbsp;🎮
 
