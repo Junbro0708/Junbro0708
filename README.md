@@ -13,7 +13,7 @@
 <br/>
 
 Hey &nbsp;👋&nbsp;&nbsp;**I'm Jun. I'm just a Korean guy who want to be a famous developer.** &nbsp;🇰🇷         
-I want to be a **Web Frontend Developer** and now I'm trying to make a **3d web site with three.js.** &nbsp;: ) &nbsp;🖥 
+I want to be a **Web Frontend Developer** and now I'm trying to make a **3d web site with three.js.** &nbsp;: ) &nbsp;🖥 </br> 
 So I've been studying **Html, CSS, Javascript** and **Photoshop, Blender.** &nbsp;🎮
 
 <br/>
