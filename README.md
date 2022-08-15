@@ -12,13 +12,13 @@
 
 <br/>
 
-Hey &nbsp;👋&nbsp;&nbsp;**I'm Jun. I'm just a guy who want to be a famous web developer.** &nbsp;🇰🇷         
-I want to be a **Game Developer** and **3D Modeler** &nbsp;: ) &nbsp;🚀   
-So I'm studying **Unity, UnrealEngine** and **Maya, Zbrush, Blender.** &nbsp;🎮
+Hey &nbsp;👋&nbsp;&nbsp;**I'm Jun. I'm just a Korean guy who want to be a famous developer.** &nbsp;🇰🇷         
+I want to be a **Web Frontend Developer** and now I'm trying to make a **3d web site with three.js.** &nbsp;: ) &nbsp;🖥 
+So I've been studying **Html, CSS, Javascript** and **Photoshop, Blender.** &nbsp;🎮
 
 <br/>
 
-I'm gonna create helpful game and media art **to make the world more enjoyable!** &nbsp;🤣   
+I'll create a intersting 3d web page **to make the world more enjoyable!** &nbsp;🤣   
 So please watch me until I become **a famous developer** 🙏 &nbsp; Thank you guys &nbsp;: ) &nbsp;😘
 
 <br/>
